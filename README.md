@@ -102,9 +102,7 @@ the diverse payment preferences of customers.
 ## Lead Qualification to Closed Deals and Revenue Outcomes:
 
  The conversion rate from qualified leads to closed deals is approximately (10.58%). 
-The total declared monthly revenue from closed leads is substantial, at 840. 
-This indicates that while the conversion rate might seem low, the value of each closed 
-deal is high, making lead nurturing and conversion optimization critical.
+
 
  ## Delivery & Logistics
  
